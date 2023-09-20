@@ -1,3 +1,5 @@
+/* Naci matematicku sredinu dva broja a i b */
+
 #include <stdio.h>
 int main() {
 	float a,b;

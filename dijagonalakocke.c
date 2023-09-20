@@ -1,3 +1,5 @@
+/* Naci dijagonalu kocke od stranice a kocke */
+
 #include <stdio.h>
 #include <math.h>
 int main() {
